@@ -9,36 +9,35 @@ A *computer science* learner with a keen interest in **low-level programming**.
 I am interested in expanding my comprehension in programming languages, operating systems, and hardware components: to design, develop, and optimize computing systems.
 
 
-## 🛠️ Languages and tools
+## 🛠️ Tools and technologies
 
-<img title="c" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;
-<img title="c++" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&nbsp;
-<img title="java" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;
-<img title="python" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;
-<img title="c#" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;
-<img title="kotlin" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />&nbsp;
-<img title="r" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-<img title="html" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
-<img title="css" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
-<img title="javascript" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
-<img title="php" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;
-<img title="sqlite" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />&nbsp;
-<img title="postgresql" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&nbsp;
-<img title="bash" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />&nbsp;
-<img title="linux" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;
-<img title="android" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />&nbsp;
-<img title="windows" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />&nbsp;
-<img title="arduino" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />&nbsp;
-<img title="raspberrypi" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />&nbsp;
-<img title="git" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
-<img title="neovim" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />&nbsp;
-<img title="vscode" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;
-<img title="androidstudio" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />&nbsp;
-<img title="llvm" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/llvm/llvm-original.svg" />
+<div id="tool_technologies_icons">
+  <img title="bash" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/bash.svg" />&nbsp;
+  <img title="linux" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/linux.svg" />&nbsp;
+  <img title="android" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/android.svg" />&nbsp;
+  <img title="windows" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/windows.svg" />&nbsp;
+  <img title="arduino" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/arduino.svg" />&nbsp;
+  <img title="raspberrypi" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/raspberrypi.svg" />&nbsp;
+  <img title="neovim" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/neovim.svg" />&nbsp;
+  <img title="vscode" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/vscode.svg" />&nbsp;
+  <img title="androidstudio" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/androidstudio.svg" />&nbsp;
+  <img title="gimp" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/gimp.svg" />&nbsp;
+  <img title="kicad" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/kicad.svg" />&nbsp;
+  <img title="freecad" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/freecad.svg" />&nbsp;
+  <img title="sqlite" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/sqlite.svg" />&nbsp;
+  <img title="postgresql" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/postgresql.svg" />&nbsp;
+  <img title="r" height="100em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />&nbsp;
+  <img title="jupyter" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/jupyter.svg" />&nbsp;
+  <img title="cmake" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/cmake.svg" />&nbsp;
+  <img title="opengl" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/opengl.svg" />&nbsp;
+  <img title="git" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/git.svg" />&nbsp;
+  <img title="tortoisegit" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/tortoisegit.svg" />&nbsp;
+  <img title="llvm" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/llvm.svg" />&nbsp;
+  <img title="gcc" height="100em" width="auto" src="https://github.com/An4b4515/MD_assets/blob/main/profile_README/gcc.svg" />
+</div>
 
 
-## 📊 Statistics
+## 📊 Language statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An4b4515&theme=ayu-mirage)
-
 
